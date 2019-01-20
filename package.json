@@ -20,5 +20,8 @@
     "tsc-watch": "^1.0.31",
     "tslint": "^5.12.1",
     "typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
   }
 }
